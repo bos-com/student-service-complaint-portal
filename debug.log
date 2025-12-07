@@ -1,0 +1,14 @@
+2025-11-16 13:03:33 - Admin dashboard accessed
+Session: Array
+(
+    [student] => Array
+        (
+            [id] => 0
+            [email] => sportal395@gmail.com
+            [role] => admin
+        )
+
+)
+
+SUCCESS - Admin authenticated
+
